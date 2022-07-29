@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="aero_ikondegistir_yeniaramalar1">0</string>
+    <string name="aero_ikondegistir_yeniaramalar2">0</string>
+    <string name="aero_hazar_hikaye_ekrani">0</string>
+    <boolean name="disable_hiddenchat_access" value="false" />
+    <boolean name="my_statusd" value="false" />
+    <string name="hazar_bozkurt_sesler_gecis2">0</string>
+    <string name="hazar_bozkurt_sesler_gecis1">0</string>
+    <string name="aero_ikondegistir_yenisohbet">4</string>
+    <string name="aero_ikondegistir_tabkamera">1</string>
+    <boolean name="ModChaSendColor_Gactive" value="false" />
+    <int name="ModChaSendColor" value="-1" />
+    <string name="aero_ikondegistir_aramaikonu">0</string>
+    <string name="aero_toast_pozisyon">0</string>
+    <boolean name="hide_action_l" value="false" />
+    <boolean name="hide_action_m" value="false" />
+    <boolean name="Conv_call_btn" value="false" />
+    <boolean name="Audio_sensor" value="true" />
+    <boolean name="Hide_div" value="false" />
+    <boolean name="isSwipeEnabled" value="false" />
+    <string name="hazar_bozkurt_sesler_seskayitbasla">0</string>
+    <boolean name="log_show_name_check" value="true" />
+    <string name="hazar_bozkurt_hikaye_fix">0</string>
+    <string name="aero_hazar_elegantmod">0</string>
+    <string name="AeroAyricaliklariTasarim">0</string>
+    <string name="AeroHikayeTasarim">0</string>
+    <boolean name="custom_wall_profilepic" value="false" />
+    <string name="hazar_bozkurt_aero_hizlikisiler">1</string>
+    <boolean name="Hide_contact_picker_section_other_contacts" value="false" />
+    <boolean name="enable_ig_stories" value="false" />
+    <boolean name="onlinechat" value="true" />
+    <string name="aero_gecis_efekti">0</string>
+    <string name="ConvoEntry">7</string>
+    <string name="ui_home_styleV2">0</string>
+    <boolean name="chats_show_contact_online_toast_check" value="false" />
+    <string name="aero_toast_sure">0</string>
+    <boolean name="SohbetFabGizle" value="true" />
+    <boolean name="Aero_AramaSimgesiGizle" value="false" />
+    <boolean name="yo_want_airplanemode" value="false" />
+    <boolean name="hide_fab" value="true" />
+    <string name="aero_ikondegistir_yenidurum1">0</string>
+    <string name="aero_ikondegistir_yenidurum2">0</string>
+    <boolean name="chat_contactpicV2" value="false" />
+    <boolean name="yo_want_nightmode" value="false" />
+    <boolean name="chat_mypicV2" value="false" />
+    <string name="aero_ikondegistir_yenisohbet3">0</string>
+    <boolean name="group_mypicV2" value="false" />
+    <boolean name="my_name" value="false" />
+    <int name="pic_chat_size_pickerV2" value="40" />
+    <string name="AeroHikayeDuzenTasarim">0</string>
+    <string name="aero_ikondegistir_yenisohbet1">0</string>
+    <boolean name="custom_wall" value="false" />
+    <string name="aero_ikondegistir_yenisohbet2">0</string>
+    <boolean name="elapsed_time" value="false" />
+    <boolean name="yo_hideinfo" value="false" />
+    <boolean name="PicProf" value="false" />
+    <boolean name="Hide_contact_picker_section_recent_chats" value="false" />
+    <string name="aero_ikondegistir_gecemod">0</string>
+    <string name="aero_ikondegistir_alttab1">0</string>
+    <string name="hazar_bozkurt_sesler_seskayitdurdur">0</string>
+    <string name="aero_ikondegistir_alttab2">0</string>
+    <boolean name="hide_action_a" value="false" />
+    <boolean name="Audio_ears" value="false" />
+    <boolean name="hide_action_b" value="false" />
+    <string name="hazar_aero_giris_stilleri">4</string>
+    <boolean name="UstMetinleriGizle" value="false" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <boolean name="group_participants_picV2" value="true" />
+    <string name="hazar_bozkurt_arama_fix">0</string>
+    <string name="home">18</string>
+    <boolean name="sekmeleri_gizle" value="false" />
+    <boolean name="enable_grp_separation" value="false" />
+    <string name="hazar_bozkurt_sesler_gidenmesaj">0</string>
+    <string name="HomeEntry">yousef</string>
+    <string name="aero_pro_stil_fix">1</string>
+    <int name="BadgePozisyonu" value="35" />
+    <boolean name="Hide_contact_picker_section_frequent_chats" value="false" />
+    <string name="hazar_bozkurt_sesler_gelenmesaj">0</string>
+    <string name="pic_startlocation">1</string>
+    <boolean name="AttBt" value="false" />
+    <boolean name="pic_inside" value="false" />
+    <int name="main_text" value="17" />
+    <string name="aero_ikondegistir_yeniaramalar3">0</string>
+    <int name="text_size_pick" value="16" />
+</map>
