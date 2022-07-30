@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-  
-  
- <themes> 
- <data Xml="https://raw.githubusercontent.com/ziadelsayed2004/ZeTheme/main/Xml/" Wall="https://raw.githubusercontent.com/ziadelsayed2004/ZeTheme/main/Wall/" Screen="https://raw.githubusercontent.com/ziadelsayed2004/ZeTheme/main/Screen/"/> 
- <theme> 
- <title>Stock</title> 
- <date>30/07/2022</date> 
- </theme>
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<themes>
+<data Xml="https://raw.githubusercontent.com/OmarShawkey13/RcTheme/main/Xml/" Wall="https://raw.githubusercontent.com/OmarShawkey13/RcTheme/main/Wall/" Screen="https://raw.githubusercontent.com/OmarShawkey13/RcTheme/main/Screen/"/>
+<theme>
+<title>LightThemeIos</title>
+<date>26/5/2022</date>
+</theme>
+<theme>
+<title>DarkThemeIos</title>
+<date>26/5/2022</date>
+</theme>
+<theme>
+<title>MoonKnight</title>
+<date>27/5/2022</date>
+</theme>
