@@ -12,7 +12,7 @@
     <boolean name="quoted_bg_picker_Gactive" value="false" />
     <int name="ModFabNormalColor" value="-918785" />
     <boolean name="newAttach_BottomDesign" value="true" />
-    <int name="ModContactNameColor" value="-16777216" />
+    <int name="ModContactNameColor" value="-14841153" />
     <boolean name="hide_action_m" value="false" />
     <boolean name="Conv_call_btn" value="false" />
     <boolean name="ModFabTextColor_Gactive" value="false" />
@@ -37,21 +37,21 @@
     <int name="HomeCounterBK" value="-14841153" />
     <int name="ModHomeMentionIconColor" value="-918785" />
     <boolean name="yo_want_airplanemode" value="true" />
-    <int name="ModDarkConPickColor" value="-14841153" />
+    <int name="ModDarkConPickColor" value="-2034177" />
     <boolean name="enable_grp_separationV2" value="true" />
     <int name="quoted_divider_picker" value="14215396" />
     <boolean name="chat_contactpicV2" value="false" />
     <boolean name="yo_multi_account_menu" value="false" />
     <int name="ModFabTextColor" value="-14841153" />
     <boolean name="key_counter_tx_Gactive" value="false" />
-    <int name="ModConTextColor" value="-16777216" />
+    <int name="ModConTextColor" value="-14841153" />
     <boolean name="chat_mypicV2" value="false" />
     <int name="list_bg_color" value="-918785" />
     <boolean name="ModConTextColor_Gactive" value="false" />
     <boolean name="group_mypicV2" value="false" />
     <boolean name="key_with_thumb" value="false" />
     <boolean name="disableDTTL" value="false" />
-    <int name="ModConBackColor" value="-14841153" />
+    <int name="ModConBackColor" value="-2034177" />
     <boolean name="ModOnlineColor_Gactive" value="false" />
     <boolean name="yo_hideinfo" value="false" />
     <boolean name="PicProf" value="false" />
@@ -68,7 +68,7 @@
     <boolean name="key_counter_bg_Gactive" value="false" />
     <boolean name="status_wantsendconfirmation" value="false" />
     <boolean name="Hide_contact_picker_section_frequent_chats" value="false" />
-    <int name="ModDarkConPickColorNav" value="-14841153" />
+    <int name="ModDarkConPickColorNav" value="-2034177" />
     <string name="pic_startlocation">1</string>
     <boolean name="AttBt" value="false" />
     <boolean name="pic_inside" value="false" />
@@ -91,10 +91,10 @@
     <int name="ModChaSendColor" value="-14841153" />
     <int name="pagetitle_sel_picker" value="-918785" />
     <boolean name="ModDarkConPickColorNav_Gactive" value="false" />
-    <int name="HomeBarText" value="-16777216" />
+    <int name="HomeBarText" value="-14841153" />
     <int name="key_counter_bg" value="-14841153" />
     <boolean name="onlineDotchatColor_Gactive" value="false" />
-    <int name="ModChatColor" value="-14841153" />
+    <int name="ModChatColor" value="-2034177" />
     <boolean name="imsHideRStatus" value="false" />
     <int name="ModChatGStatusT" value="-14841153" />
     <int name="tabadgeBKColor" value="-2561820" />
