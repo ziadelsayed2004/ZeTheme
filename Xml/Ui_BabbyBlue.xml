@@ -89,7 +89,7 @@
     <int name="ModChatGStatusB" value="-2034177" />
     <int name="quoted_name_picker" value="-14841153" />
     <int name="ModChaSendColor" value="-14841153" />
-    <int name="pagetitle_sel_picker" value="-918785" />
+    <int name="pagetitle_sel_picker" value="-14841153" />
     <boolean name="ModDarkConPickColorNav_Gactive" value="false" />
     <int name="HomeBarText" value="-14841153" />
     <int name="key_counter_bg" value="-14841153" />
