@@ -20,6 +20,10 @@
 <date>31/07/2022</date>
 </theme>
 <theme>
+<title>Stock_DarkGreen</title>
+<date>30/01/2023</date>
+</theme>
+<theme>
 <title>ios_light</title>
 <date>01/08/2022</date>
 </theme>
@@ -34,6 +38,10 @@
 <theme>
 <title>ios_green</title>
 <date>04/08/2022</date>
+</theme>
+<theme>
+<title>iOS_DarkGreen</title>
+<date>30/01/2023</date>
 </theme>
 <theme>
 <title>Ui_light</title>
@@ -52,6 +60,10 @@
 <date>08/08/2022</date>
 </theme>
 <theme>
+<title>Ui_DarkGreen</title>
+<date>30/01/2023</date>
+</theme>
+<theme>
 <title>Bubble_light</title>
 <date>09/08/2022</date>
 </theme>
@@ -68,6 +80,10 @@
 <date>12/08/2022</date>
 </theme>
 <theme>
+<title>Basic_DarkGreen</title>
+<date>30/01/2023</date>
+</theme>
+<theme>
 <title>Basic_light</title>
 <date>13/08/2022</date>
 </theme>
@@ -82,4 +98,8 @@
 <theme>
 <title>Basic_green</title>
 <date>16/08/2022</date>
+</theme>
+<theme>
+<title>Basic_DarkGreen</title>
+<date>30/01/2023</date>
 </theme>
